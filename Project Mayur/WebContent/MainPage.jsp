@@ -17,7 +17,7 @@
 					<br>
 					If you Already have Account then your ready to Enjoy our Services by Clicking Log in Button !
 					<br>
-					Thanking you To visite our Bank <br>
+					Thanking you To visit our Bank <br>
 </p>
 					
 		<center><input type="button" value="Create Account" name="ca">
@@ -28,8 +28,9 @@
 	<hr>
 	<h5 align="center">www.TechMayur.com</h5>
 	<h6 align="center">MayurBagul@2018
-			<br>All Rights Reserved</h6>
+			All Rights Reserved</h6>
 	
-	
+		
+
 </body>
 </html>
